@@ -1,0 +1,30 @@
+.containerCard{
+background-color: rgb(255, 255, 255);
+
+}
+.commentsContainer{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap; /* Kartların satırlar halinde sarılmasını sağlar */
+    gap: 20px; /* Kartlar arasında boşluk */
+}
+
+.commentsCard{
+    margin-bottom: 3%;
+}
+
+.comments{
+    border:none;
+    background-color: rgba(193, 185, 144, 0.58);
+    border-radius: 10%;
+}
+
+.user-content p{
+    margin-top:5px;
+    font-size:13px;
+}
+
+.ratings i{
+    color:rgb(84, 77, 18);
+}

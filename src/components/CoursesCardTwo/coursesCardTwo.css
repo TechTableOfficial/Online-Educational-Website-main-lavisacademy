@@ -1,0 +1,24 @@
+.custom-modal .modal-dialog {
+    max-width: 80%; /* Modal genişliğini yüzde olarak ayarlayabilirsiniz */
+}
+
+.custom-modal .modal-body {
+    display: flex;
+    flex-wrap: wrap; /* İçeriği yatayda dengeli bir şekilde yaymak için */
+    justify-content: space-around;
+}
+
+.custom-modal .modal-body ul {
+    flex: 0 0 45%; /* Her bir listenin genişliğini ayarlayın */
+}
+.card {
+    height: 500px; /* Kart yüksekliğini sabitle */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.card-body {
+    flex: 1;
+    overflow: hidden;
+}

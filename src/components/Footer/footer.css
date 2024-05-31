@@ -1,0 +1,38 @@
+.footer {
+  background: rgba(131, 193, 193, 0.553);
+}
+
+.follows span a {
+  text-decoration: none;
+}
+
+.follows span {
+  margin-right: 15px;
+}
+
+.link__list .link__item {
+  background: transparent;
+}
+
+.link__list a {
+  text-decoration: none;
+  color: #0a2b1e;
+  font-weight: 500;
+}
+
+.icon-styling {
+  font-size: 48px;
+  margin-right: 6px;
+}
+
+.iconSocial-styling {
+  font-size: 28px;
+}
+.columnStyle {
+  margin-bottom: 2px; 
+  text-align: justify; 
+  text-justify: inter-word; 
+}
+
+
+

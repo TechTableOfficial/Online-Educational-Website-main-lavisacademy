@@ -1,0 +1,92 @@
+.single__course__item {
+  padding: 15px;
+  flex-shrink: 0;
+  justify-content: flex-start;
+  width: 310px;
+  height: 430px;
+  border-radius: 10px;
+  margin-left: 10px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.course__img img {
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.enroll a {
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 0.9rem;
+  color: #13a4ac;
+}
+
+.lesson,
+.students,
+.rating {
+  font-size: 0.9rem;
+  color: #0a2b1e;
+  font-weight: 500;
+}
+
+.lesson i,
+.students i,
+.rating i {
+  font-weight: 400;
+}
+
+.course__title {
+  line-height: 2rem;
+  color: #000000; 
+
+}
+
+.course__title:hover {
+  color: #13a4ac; 
+}
+
+.course__top__left h2 {
+  font-weight: 600;
+}
+
+.containerr {
+  display: flex;
+  overflow-x: scroll;
+  width: 100%;
+}
+
+.containerClass {
+  justify-content: center;
+}
+
+.containerClassTwo {
+  margin-top: 100px;
+}
+
+.btn:active {
+  background: #208a75;
+}
+
+.btn:visited {
+  background: #208a75;
+}
+
+btn:focus {
+  background: #208a75;
+}
+
+.courseCard{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+@media (max-width: 1100px) {
+
+  .courseCard{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+}

@@ -1,0 +1,52 @@
+.hero__content h2 {
+  font-weight: 600;
+  line-height: 55px;
+  margin-top: 6%;
+}
+
+.hero__content {
+  padding-top: 80px;
+}
+
+.hero_content::before {
+  content: '• ';
+  /* Burada '•' nokta karakterini temsil ediyor */
+  color: rgb(38, 126, 134);
+  /* Noktanın rengi */
+  font-size: 2.2em;
+  /* Noktanın boyutu, ihtiyaca göre ayarlanabilir */
+  margin-right: 6px;
+  /* Nokta ile metin arasındaki boşluk */
+}
+
+.search input {
+  border: none;
+  outline: none;
+  padding: 7px 10%;
+}
+
+.hero__img {
+  border-radius: 35px;
+}
+
+@media (max-width: 1100px) {
+
+  .hero__content {
+    padding-top: 10px;
+  }
+
+  .hero__img {
+    margin-top: 60px;
+  }
+
+  .hero__title {
+    text-align: center;
+    color: rgb(128, 94, 50);
+  }
+
+  .hero_content {
+    text-align: center;
+  }
+
+
+}
