@@ -56,7 +56,7 @@ const AboutUs = () => {
                                         ></i>
                                         <div className="pl-3">
                                             <h5>Email</h5>
-                                            <p>ihaticeday4@gmail.com</p>
+                                            <p>haticeday4@gmail.com</p>
                                         </div>
                                     </div>
                                 </div>

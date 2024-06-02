@@ -79,6 +79,9 @@ const Footer = () => {
                     <i class="ri-twitter-line iconSocial-styling"></i>
                   </a>
                 </span>
+                <p>
+                  ©Copyright 2024 TechTable
+                </p>
               </div>
             </div>
           </Col>
@@ -98,7 +101,7 @@ const Footer = () => {
           <Col className="mb-4 text-center text-md-start">
             <h6 className="fw-bold">Bize ulaşabilirsiniz.</h6>
             <p >Adres: Tbilisi/Georgia</p>
-            <p>Email: ihaticeday4@gmail.com</p>
+            <p>Email: haticeday4@gmail.com</p>
           </Col>
         </Row>
       </Container>
