@@ -10,11 +10,7 @@ const footerQuickLinks = [
   {
     display: "Eğitim Paketlerim",
     url: "/courses-section",
-  },
-  {
-    display: "İletişim",
-    url: "/about-us",
-  },
+  }
 ];
 
 const footerInfoLinks = [
@@ -98,11 +94,11 @@ const Footer = () => {
             </ListGroup>
           </Col>
 
-          <Col className="mb-4 text-center text-md-start">
+          {/* <Col className="mb-4 text-center text-md-start">
             <h6 className="fw-bold">Bize ulaşabilirsiniz.</h6>
             <p >Adres: Tbilisi/Georgia</p>
             <p>Email: haticeday4@gmail.com</p>
-          </Col>
+          </Col> */}
         </Row>
       </Container>
     </footer>

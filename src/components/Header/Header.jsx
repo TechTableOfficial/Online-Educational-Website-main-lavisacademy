@@ -82,7 +82,6 @@ export default function Header() {
         <nav className="Nav">
           <a className="HeaderTexts" href="/" >Hakkımızda</a>
           <a className="HeaderTexts" href="/courses-section" >Eğitim Paketlerim</a>
-          <a className="HeaderTexts" href="/about-us" >İletişim</a>
           <h4 className="leftIcon d-flex align-items-center gap-2 mt-2" onClick={shopClicked}>
             <i className="leftIcon ri-shopping-cart-line" onClick={shopClicked} ></i> Mağaza
           </h4>
