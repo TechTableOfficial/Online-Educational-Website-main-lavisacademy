@@ -1,4 +1,4 @@
 routes:
-  - path: /*
+  - path: /*.html
     destination: /index.html
     method: GET
