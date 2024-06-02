@@ -31,7 +31,7 @@ const Features = () => {
                 <h2 className="mb-3">
                   <i class={item.icon} style={{color:'#13a4ac'}}></i>
                 </h2>
-                <h6 style={{fontSize:'12px'}}>{item.title}</h6>
+                <h6 style={{fontSize:'18px'}}>{item.title}</h6>
                 <p>{item.desc}</p>
               </div>
             </Col>

@@ -24,22 +24,22 @@ const Home = () => {
       <Container>
         <div>
           <div class="text">
-            <h2 style={{fontSize:'13px'}} className='title mb-5'>İngilizce Eğitim Paketlerimiz Kimler İçin Uygundur?</h2>
-            <h5 style={{fontSize:'11px'}} className='title mb-4'>Kişiselleştirilmiş Destek Arayanlar:</h5>
+            <h2 style={{fontSize:'20px'}} className='title mb-5'>İngilizce Eğitim Paketlerimiz Kimler İçin Uygundur?</h2>
+            <h5 style={{fontSize:'18px'}} className='title mb-4'>Kişiselleştirilmiş Destek Arayanlar:</h5>
             <ul>
               <li style={{fontSize:'17px',fontFamily:'sans'}}>Öğrenme ihtiyaçları ve hedefleri olan bireyler için, 
               eğitim paketlerimiz kişiselleştirilmiş bir destek sunar.</li>
             </ul>
-            <h5 style={{fontSize:'11px'}} className='title mb-4'>Öğrenme Tarzlarına Göre Destek Arayanlar:</h5>
+            <h5 style={{fontSize:'18px'}} className='title mb-4'>Öğrenme Tarzlarına Göre Destek Arayanlar:</h5>
             <ul>
               <li style={{fontSize:'17px',fontFamily:'sans'}}>Farklı öğrenme tarzlarına sahip olanlar,
                  kendi öğrenme tarzlarına uygun bir şekilde destek alabilirler.</li>
             </ul>
-            <h5 style={{fontSize:'11px'}} className='title mb-4'>Yoğun İş Ya Da Okul Programına Sahip Olanlar:</h5>
+            <h5 style={{fontSize:'18px'}} className='title mb-4'>Yoğun İş Ya Da Okul Programına Sahip Olanlar:</h5>
             <ul>
               <li style={{fontSize:'17px',fontFamily:'sans'}}>Zamanları kısıtlı olanlar için, esnek programlar sunan eğitim paketlerimiz, kişilere zamanlarını en verimli şekilde kullanma fırsatı sunar.</li>
             </ul>
-            <h5 style={{fontSize:'11px'}} className='title mb-4'>Hedef Odaklı Çalışmak İsteyenler:</h5>
+            <h5 style={{fontSize:'18px'}} className='title mb-4'>Hedef Odaklı Çalışmak İsteyenler:</h5>
             <ul>
               <li style={{fontSize:'17px',fontFamily:'sans'}}>Belirli bir İngilizce dil becerisi kazanma veya belirli bir hedefe ulaşma amacı olanlar için, eğitim paketlerimiz hedeflerine odaklanmalarına ve bu hedeflere ulaşmalarına yardımcı olabilir.</li>
             </ul>
