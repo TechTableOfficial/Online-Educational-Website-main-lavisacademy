@@ -18,7 +18,7 @@ const contentA1 = (
                 <li>Sınavlara nasıl hazırlanılır? Nelere dikkate etmeliyiz? Püf noktalar nelerdir?</li>
                 <li>Oyun (çarpraz bulmaca,eşya bulmaca)</li>
                 <li>Günlük rutinlerle ingilizce.</li>
-                <li>Telaffuz (sıfırdan alfabe) eklensin.</li>
+                <li>Telaffuz (sıfırdan alfabe)</li>
                 <li>Okuma kitabı</li>
             </ul>
         </div>
